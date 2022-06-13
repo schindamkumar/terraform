@@ -92,7 +92,7 @@ resource "azurerm_mssql_database" "test" {
   zone_redundant = true
 
   tags = {
-    foo = "bar"
+   
   }
 
 }
